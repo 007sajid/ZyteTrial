@@ -7,8 +7,9 @@ Added test cases for all six opetations i.e:
   5. Create profile
   6. Get Profile
 
-Test cases are written over google sheets and you can find a link here : https://docs.google.com/spreadsheets/d/1zL4WbtsNnxyl2glivVafdXh4aqMlrpeyZ0anxObrtmk/edit#gid=0
-Also uploaded on Github: https://github.com/007sajid/ZyteTrial/blob/master/Test%20Cases%20for%20Zyte.xlsx
+Test cases are written over google sheets and you can find a link here : https://docs.google.com/spreadsheets/d/1zL4WbtsNnxyl2glivVafdXh4aqMlrpeyZ0anxObrtmk/edit?usp=sharing
+
+Test cases also uploaded on Github: https://github.com/007sajid/ZyteTrial/blob/master/Test%20Cases%20for%20Zyte.xlsx
 
 Tool used: Katalon Studio
 Language: Java 8
