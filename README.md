@@ -31,6 +31,6 @@ Scripts : https://github.com/007sajid/ZyteTrial/tree/master/Scripts
 Keywords (helpers) : https://github.com/007sajid/ZyteTrial/tree/master/Keywords
 Test Cases: https://github.com/007sajid/ZyteTrial/tree/master/Test%20Cases
 Object Repository: https://github.com/007sajid/ZyteTrial/tree/master/Object%20Repository
-
+Test Suite: https://github.com/007sajid/ZyteTrial/tree/master/Test%20Suites
 
 
