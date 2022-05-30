@@ -27,10 +27,10 @@ GET and POST methods are used only yet according to requirements
 Reports are also added in Reports folder. 
 
 Main folders to see 
-Scripts : https://github.com/007sajid/ZyteTrial/tree/master/Scripts
-Keywords (helpers) : https://github.com/007sajid/ZyteTrial/tree/master/Keywords
-Test Cases: https://github.com/007sajid/ZyteTrial/tree/master/Test%20Cases
-Object Repository: https://github.com/007sajid/ZyteTrial/tree/master/Object%20Repository
-Test Suite: https://github.com/007sajid/ZyteTrial/tree/master/Test%20Suites
+1. Scripts : https://github.com/007sajid/ZyteTrial/tree/master/Scripts
+2. Keywords (helpers) : https://github.com/007sajid/ZyteTrial/tree/master/Keywords
+3. Test Cases: https://github.com/007sajid/ZyteTrial/tree/master/Test%20Cases
+4. Object Repository: https://github.com/007sajid/ZyteTrial/tree/master/Object%20Repository
+5. Test Suite: https://github.com/007sajid/ZyteTrial/tree/master/Test%20Suites
 
 
