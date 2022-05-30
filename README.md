@@ -1,18 +1,24 @@
-# Web Service Testing Samples
+This is derived from Katalon sample project for WEB APIs 
+Added test cases for all six opetations i.e:
+  1. Create Post
+  2. Get Post by ID
+  3. Create comment on a post
+  4. See comments on a post by post ID
+  5. Create profile
+  6. Get Profile
 
-See https://docs.katalon.com/katalon-studio/docs/web-service-samples.html.
+Test cases are written over google sheets and you can find a link here : https://docs.google.com/spreadsheets/d/1zL4WbtsNnxyl2glivVafdXh4aqMlrpeyZ0anxObrtmk/edit#gid=0
 
-## Companion products
+Tool used: Katalon Studio
+Language: Java 8
+Approach: I used helper classes (Keywords) for code reusability.
+Object Repository has all the API calls availables
+While assertions and Verify statements are available in test cases which validate that API call is valid and response has all the changes available after API call execution. 
+Verified new added posts and comments by using GET calls and assert calls are present. 
 
-### Katalon TestOps
+Test Data feature is also available to get data from files. 
+and Environments can also be set up to run code accross multiple environments.
 
-[Katalon TestOps](https://analytics.katalon.com) is a web-based application that provides dynamic perspectives and an insightful look at your automation testing data. You can leverage your automation testing data by transforming and visualizing your data; analyzing test results; seamlessly integrating with such tools as Katalon Studio and Jira; maximizing the testing capacity with remote execution.
 
-* Read our [documentation](https://docs.katalon.com/katalon-analytics/docs/overview.html).
-* Ask a question on [Forum](https://forum.katalon.com/categories/katalon-analytics).
-* Request a new feature on [GitHub](CONTRIBUTING.md).
-* Vote for [Popular Feature Requests](https://github.com/katalon-analytics/katalon-analytics/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc).
-* File a bug in [GitHub Issues](https://github.com/katalon-analytics/katalon-analytics/issues).
-
-### Katalon Studio
-[Katalon Studio](https://www.katalon.com) is a free and complete automation testing solution for Web, Mobile, and API testing with modern methodologies (Data-Driven Testing, TDD/BDD, Page Object Model, etc.) as well as advanced integration (JIRA, qTest, Slack, CI, Katalon TestOps, etc.). Learn more about [Katalon Studio features](https://www.katalon.com/features/).
+GET and POST methods are used only yet according to requirements
+ 
